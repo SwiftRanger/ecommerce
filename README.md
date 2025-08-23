@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# ecommerce1" 
 "# ecommerce1" 
 "# docker-eco-frontend" 
+"# docker-eco-frontend" 
